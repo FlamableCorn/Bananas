@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<title>Bananas</title>
+<body bgcolor="yellow">
+    <div style = "position:relative; top:2px; font-size: 100px; font-family: 'Courier New', Courier, monospace; font-weight: 500;">
+       <center><strong>Bananas</strong> </center>
+    </div>
+    <div style =  "position:relative; font-size: 30px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif; font-weight: 700;">
+    <a href="#Nutrients" style="text-decoration: none;">Nutrients</a>
+    <a href="#Vitamins" style="text-decoration: none;">Vitamins</a><br />
+    </div>
+    <div style = "position:relative; top:2px; font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 400;">
+        Bananas are a yellow fruit ranging from 5 to 10 inches.<br>Bananas are a healthy source of fiber, potassium, vitamin B6, vitamin C, and various antioxidants and phytonutrients.<br> Banananas are very good for both gut health and a healthy heart.
+        Bananas contain many important nutrients including nutrients that moderate blood sugar levels. Bananas are great for weight
+        loss because of Its high fiber.. Research has found that eating high levels of fiber can reduce the risk of weight gain by up to 30%.
+        
+    </div>
+<div style =  "position:relative; font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 400;">
+    <h2 id="Nutrients">Nutrients:</h2>
+</div>
+<div style = "position:relative; top:2px; font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 400;">
+    Calories: 105
+    <br>
+    <br>
+    carbs:27g
+    <br>
+    <br>
+    fat:0.4g
+    <div style = "position:relative; top:2px; font-size: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 200;">
+        monosaturated:
+        <br>
+        saturated: 0.1g
+        <br>
+        polyunsaturated:0.1g
+        <br>  
+    </div>    
+    <br>   
+    protein:1.3g
+    <br>
+    <br>
+    sugars:14.4
+</div>
+<div style =  "position:relative; font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 400;">
+<h2 id="Vitamins">Vitamins:</h2>
+</div>
+<div style = "position:relative; top:2px; font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 400;">
+    <strong>Potassium. </strong> Bananas are a great source of potassium. A diet with high levels of pottasium can lower blood pressure
+    and benifit a healthy heart.
+    <br>
+    <br>
+    <strong>Vitamin b6. </strong>One banana can provide up to 33% of your dayly vitamin b6. Vitamin B6 has several
+    benifits including promoting brain health and imporvinh mood.<br><br>
+    <strong>Vitamin C. </strong>Like many fruits, bananas are a good source of vitamin C. Vitamin C helps develop new cells.
+</div>
